@@ -15,6 +15,8 @@ function App() {
       <div className='w-[80%]'>
        <NavBar/>
       </div>
+      <div>
+      </div>
     </div>
     </>
   )
